@@ -1,5 +1,5 @@
 # avalanche-intro
-A set of resources for anyone interested in the Avalanche Ecosystem.
+A set of watchable / listenable resources for anyone interested in the Avalanche Ecosystem.
 
 # Ava Labs
 The company behind Avalanche
