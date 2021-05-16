@@ -19,7 +19,11 @@ https://www.avalabs.org/
 - Avalanche Review with Eric Wall + Kevin Sekniqi (2/26/21) https://www.youtube.com/watch?v=qayH_Owy1II
 
 # Interesting Podcast Episodes on Crypto
-- TBD
+- Balaji S. Srinivasan on Tim Ferris https://overcast.fm/+Kebsk-d9A
+- Chris Dixon on Invest Like the Best https://overcast.fm/+Lzu0JF8CM
+- Nick Szabo on Tim Ferris https://overcast.fm/+KebvPT3c8
+- Mark Cuban on Unchained https://overcast.fm/+LNqdjZibc
+- Devin Finzer (founder of OpenSea) on Unchained https://overcast.fm/+LNqcS81mE
 
 # Other Resources
 - Coin Bureau's episode on Avalanche (2/12/21) https://www.youtube.com/watch?v=B9sUse76J5M
