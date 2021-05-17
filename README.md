@@ -25,5 +25,10 @@ https://www.avalabs.org/
 - Mark Cuban on Unchained https://overcast.fm/+LNqdjZibc
 - Devin Finzer (founder of OpenSea) on Unchained https://overcast.fm/+LNqcS81mE
 
+# Influencers
+- CederNet - Tutorials / Commentary on Avalanche based services https://www.youtube.com/channel/UCiXcSRRN-ms7Q_chLEV4BSg
+- The Avax Podcast - Interviews with Avalanche Creators https://open.spotify.com/show/5dzNnWP3vAzn9vvyqyunXQ
+
 # Other Resources
+- Super cool demo of Snow Protocol by Ted Yin https://tedyin.com/archive/snow-bft-demo/#/snow
 - Coin Bureau's episode on Avalanche (2/12/21) https://www.youtube.com/watch?v=B9sUse76J5M
