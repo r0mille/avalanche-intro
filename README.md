@@ -30,5 +30,6 @@ https://www.avalabs.org/
 - The Avax Podcast - Interviews with Avalanche Creators https://open.spotify.com/show/5dzNnWP3vAzn9vvyqyunXQ
 
 # Other Resources
+- Avax Projects directory https://www.avax-projects.com/
 - Super cool demo of Snow Protocol by Ted Yin https://tedyin.com/archive/snow-bft-demo/#/snow
 - Coin Bureau's episode on Avalanche (2/12/21) https://www.youtube.com/watch?v=B9sUse76J5M
